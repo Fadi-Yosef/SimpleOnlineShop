@@ -46,14 +46,7 @@ This project was developed to:
   * Stores quantity of each product
   * Encapsulates price calculation per item
 
----
 
-## 🧩 UML Class Diagram
-
-![UML Diagram](docs/uml.png)
-
-
----
 
 ## 🔗 Relationships
 
