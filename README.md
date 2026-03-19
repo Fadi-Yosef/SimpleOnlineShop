@@ -79,13 +79,7 @@ Total price: 14.5
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository
-2. Open the project in IntelliJ IDEA (or any Java IDE)
-3. Run `Main.java`
-
----
 
 ## 🧪 Design Principles Applied
 
