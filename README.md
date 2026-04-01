@@ -1,4 +1,4 @@
-# 🛒 SimpleOnlineShop
+# 🛒OnlineShop
 
 ## 📖 Overview
 
